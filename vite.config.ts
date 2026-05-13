@@ -29,7 +29,7 @@ export default defineConfig({
   // Configure server options
   server: {
     host: true,
-    port: 3000,
+    port: 5173,
     open: true,
     allowedHosts: true,
   },
